@@ -1,0 +1,109 @@
+* {
+  color: rgba(55, 55, 55, 0.75);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style: none;
+  border: solid;
+  border-width: 1px;
+  width: 540px;
+  padding: 30px;
+  padding-bottom: 50px;
+  border-radius: 0.25rem;
+}
+
+div.container {
+  border: 1px solid rgba(108, 108, 108, 0.7);
+  width: 600px;
+  height: 478px;
+  margin-top: 50px;
+  border-radius: 0.25rem;
+}
+
+.app-body {
+  padding-left: 17px;
+  padding-top: -10px;
+}
+
+.search-bar {
+  padding-top: 20px;
+  margin-top: 5px;
+  margin-bottom: -5px;
+}
+
+.search {
+  width: 541px;
+  padding: 8px;
+  border-radius: 0.25rem;
+  border-width: 1px;
+  border-color: rgb(113, 113, 113, 75%);
+}
+
+.search-icon {
+  margin-left: 512px;
+  margin-top: -67px;
+}
+
+.sky-icon {
+  position: relative;
+  bottom: 247px;
+  left: 476px;
+}
+
+div.current-body {
+  color: rgb(87, 87, 87);
+  margin-top: 2px;
+}
+.state {
+  position: relative;
+}
+
+.temperature {
+  position: relative;
+  top: 10px;
+  left: 446px;
+}
+.city {
+  position: relative;
+  font-size: 56px;
+  top: 5px;
+}
+.date {
+  position: relative;
+  top: 40px;
+}
+.time {
+  position: relative;
+  top: 17px;
+  left: 374px;
+}
+
+.week-weather {
+  font-size: 10px;
+  text-align: center;
+  width: 934px;
+  margin-left: 20px;
+  margin-top: -40px;
+}
+
+.col-1 {
+  padding: 8px;
+}
+
+div.card {
+  border: 1px solid;
+}
+div.card-body {
+  padding: 14px 10px;
+  border-radius: 0.25rem;
+  margin: -5px;
+}
+img.card-img {
+  width: 25px;
+  margin-top: -5px;
+  margin-bottom: 5px;
+}
+.card-title {
+  font-size: 12px;
+}
